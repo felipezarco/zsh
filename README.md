@@ -9,8 +9,8 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 
 ### 2 - Install Zsh Syntax Highlight
 ```shell
-git clone https://github.com/zsh-users/zsh-autosuggestions \$ZSH_CUSTOM/plugins/zsh-autosuggestions
-git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
 source ./zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 ```
 
@@ -24,9 +24,10 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf && ~/.fzf/install
 ```
 
-### 5 - Now, add 2,3 and 4 plugins to your terminal
+### 5 - Now, add the 3 and 4 plugins to your terminal
 ```
-nano ~/.bash_profile
+nano ~/.zshrc
+
 ```
 **Find this line**: 
 
@@ -64,7 +65,7 @@ For example, open `code-insiders` with command `code`
 
 **Open again the profile file with:**
 ```shell
-nano ~/.bash_profile
+nano ~/.zshrc
 ```
 **Find these lines:**
 
@@ -78,7 +79,7 @@ So that you have:
 
 ![image](https://github.com/felipezarco/zsh/assets/11004919/221ea4bd-36b2-44f3-a449-aadf31573059)
 
-**Apply Changes**
+**8 - Apply Changes**
 ```shell
-source ~/.bash_profile
+source ~/.zshrc
 ```
