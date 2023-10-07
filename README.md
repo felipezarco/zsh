@@ -9,11 +9,11 @@ Suggestions
 
 Tab Finder
 
-![image](https://github.com/felipezarco/zsh/assets/11004919/e70b2bd9-5526-4bd3-b4a5-a49462d71293)
+![image](https://github.com/felipezarco/zsh/assets/11004919/84634cfb-9e18-4836-96ac-6265a254fee9)
 
 Syntax Highlight
 
-![image](https://github.com/felipezarco/zsh/assets/11004919/ee10faf4-1bd8-4105-bdc8-ac54f27747a8)
+![image](https://github.com/felipezarco/zsh/assets/11004919/13c1f4e0-b1c7-4293-9467-759e4f160f44)
 
 
 ### 1 - Install Oh My Zsh!
