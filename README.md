@@ -3,19 +3,17 @@ Add Oh My Zsh! with Autocompletion and Suggestions
 
 What you will get:
 
-Suggestions
+#### Suggestions
 
 ![image](https://github.com/felipezarco/zsh/assets/11004919/0d32cec6-0d7e-4d36-b4ae-becc776d16c3)
-
 **TIP**: Press arrow right to accept suggestions
 
-Tab Finder
+#### Tab Finder
 
 ![image](https://github.com/felipezarco/zsh/assets/11004919/84634cfb-9e18-4836-96ac-6265a254fee9)
-
 **TIP**: Type cd and then TAB across files
 
-Syntax Highlight
+#### Syntax Highlight
 
 ![image](https://github.com/felipezarco/zsh/assets/11004919/13c1f4e0-b1c7-4293-9467-759e4f160f44)
 
