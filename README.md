@@ -47,7 +47,7 @@ plugins=(
 ```
 (or just add them in case you already oher plugins)
 
-# 6 - Install Fira Code Font
+### 6 - Install Fira Code Font
 ```shell
 sudo apt install fonts-firacode
 ```
@@ -58,7 +58,7 @@ Set this on your settings JSON VSCode file:
 "editor.fontLigatures": true
 ```
 
-# 7 - Add alias to your favorite text editor
+### 7 - Add alias to your favorite text editor
 
 For example, open `code-insiders` with command `code`
 
