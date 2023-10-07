@@ -1,30 +1,30 @@
 # Zsh 
 Add Oh My Zsh! with Autocompletion and Suggestions
 
-## 1 - Install Oh My Zsh!
+### 1 - Install Oh My Zsh!
 ```shell
 sudo apt-get install zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
-# 2 - Install Zsh Syntax Highlight
+### 2 - Install Zsh Syntax Highlight
 ```shell
 git clone https://github.com/zsh-users/zsh-autosuggestions \$ZSH_CUSTOM/plugins/zsh-autosuggestions
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 source ./zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 ```
 
-# 3 - Install Auto Suggestions
+### 3 - Install Auto Suggestions
 ```shell
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 ```
 
-# 4 - Install Fuzzy Finder 
+### 4 - Install Fuzzy Finder 
 ```shell
 git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf && ~/.fzf/install
 ```
 
-# 5 - Now, add 2,3 and 4 plugins to your terminal
+### 5 - Now, add 2,3 and 4 plugins to your terminal
 ```
 nano ~/.bash_profile
 ```
@@ -47,9 +47,11 @@ plugins=(
 (or just add them in case you already oher plugins)
 
 # 6 - Install Fira Code Font
+```shell
 sudo apt install fonts-firacode
+```
 
-Set this on your settings JSON Vscode file
+Set this on your settings JSON VSCode file:
 ```json
 "editor.fontFamily": "'Fira Code'",
 "editor.fontLigatures": true
