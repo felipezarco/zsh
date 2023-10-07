@@ -6,13 +6,11 @@ What you will get:
 #### Suggestions
 
 ![image](https://github.com/felipezarco/zsh/assets/11004919/0d32cec6-0d7e-4d36-b4ae-becc776d16c3)
-
 **TIP**: Press arrow right to accept suggestions
 
 #### Tab Finder
 
 ![image](https://github.com/felipezarco/zsh/assets/11004919/84634cfb-9e18-4836-96ac-6265a254fee9)
-
 **TIP**: Type cd and then TAB across files
 
 #### Syntax Highlight
