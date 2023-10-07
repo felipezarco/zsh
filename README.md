@@ -7,9 +7,13 @@ Suggestions
 
 ![image](https://github.com/felipezarco/zsh/assets/11004919/0d32cec6-0d7e-4d36-b4ae-becc776d16c3)
 
+**TIP**: Press arrow right to accept suggestions
+
 Tab Finder
 
 ![image](https://github.com/felipezarco/zsh/assets/11004919/84634cfb-9e18-4836-96ac-6265a254fee9)
+
+**TIP**: Type cd and then TAB across files
 
 Syntax Highlight
 
@@ -91,7 +95,7 @@ alias code='code-insiders'
 ```
 So that you have:
 
-![image](https://github.com/felipezarco/zsh/assets/11004919/221ea4bd-36b2-44f3-a449-aadf31573059)
+![image](https://github.com/felipezarco/zsh/assets/11004919/4e906837-9b55-47da-b519-1cb777ae28b0)
 
 **8 - Apply Changes**
 ```shell
