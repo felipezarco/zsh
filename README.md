@@ -29,6 +29,7 @@ git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf && ~/.fzf/install
 nano ~/.bash_profile
 ```
 **Find this line**: 
+
 ![image](https://github.com/felipezarco/zsh/assets/11004919/1f700505-f6a9-4a8f-967e-c42dfda2e4c5)
 
 Replace 
