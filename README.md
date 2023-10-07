@@ -10,7 +10,6 @@ Tab Finder
 ![image](https://github.com/felipezarco/zsh/assets/11004919/e70b2bd9-5526-4bd3-b4a5-a49462d71293)
 
 Syntax Highlight
-
 ![image](https://github.com/felipezarco/zsh/assets/11004919/ee10faf4-1bd8-4105-bdc8-ac54f27747a8)
 
 
